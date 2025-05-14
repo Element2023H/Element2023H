@@ -1,5 +1,5 @@
 ### Welcome 👋
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Element2023H&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Element2023H&show_icons=true&icon_color=CE1D2D&text_color=DA70D6&bg_color=000000&hide_title=true" />
 
 - 👋 Hi, I’m @Element2023H
 - 👀 I’m interested in ...
