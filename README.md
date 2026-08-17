@@ -30,6 +30,16 @@ You can click the Preview link to take a look at your changes.
         alt="visual studio 2019" width="40" height="40"
     /> 
  </a >  
+ </a > 
+     <!-- visual studio 2026 -->
+    <a 
+    href="https://visualstudio.microsoft.com/" 
+    target="_blank" rel="noreferrer"> 
+    <img
+        src="https://upload.wikimedia.org/wikipedia/commons/2/20/Visual_Studio_Icon_2026.svg"
+        alt="visual studio 2026" width="40" height="40"
+    /> 
+ </a >  
  <!-- c -->
  <a
     href="https://www.cprogramming.com/" 
