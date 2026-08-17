@@ -67,3 +67,10 @@ You can click the Preview link to take a look at your changes.
         width="40" height="40"
     /> 
  </a > 
+
+ <!-- 仓库信息（放在图标正下方） -->
+<p align="left">
+  <a href="https://github.com/The-Sword-of-Constantine/UsingBYOVD">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=The-Sword-of-Constantine&repo=UsingBYOVD&show_owner=true&theme=dark&title_color=DA70D6&text_color=E0B0FF&icon_color=C77DFF" alt="UsingBYOVD" />
+  </a>
+</p>
