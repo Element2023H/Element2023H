@@ -1,9 +1,15 @@
 ### Welcome 👋
 <img align="right" src="https://github-readme-stats-one-bice.vercel.app/api?username=Element2023H&show_icons=true&icon_color=CE1D2D&text_color=DA70D6&bg_color=000000&hide_title=true" />
 
+### 👋 Hi, I’m @Element2023H
+
+![Windows Kernel](https://img.shields.io/badge/Focus-Windows%20Kernel%20Security-blue?style=flat-square&logo=windows)
+![BYOVD](https://img.shields.io/badge/Research-BYOVD%20%26%20Vulnerability%20Hunting-red?style=flat-square&logo=c)
+
 - 👋 Hi, I’m @Element2023H
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Windows kernel programming
+- 👀 I’m interested in **Vulnerability Research**, **BYOVD Analysis**, and **Kernel Exploitation**
+- 🌱 I’m currently learning **Windows Driver Development** & **Reverse Engineering**
+- 🎯 Focus: Analyzing vulnerable drivers, kernel memory primitives, and local privilege escalation
 
 
 <!---
