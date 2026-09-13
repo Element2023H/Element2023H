@@ -73,7 +73,26 @@ You can click the Preview link to take a look at your changes.
         width="40" height="40"
     /> 
  </a > 
-
+<!-- IDA PRO -->
+<a
+href="https://hex-rays.com/ida-pro/"
+target="_blank" rel="noreferrer">
+<img
+  src="https://upload.wikimedia.org/wikipedia/fr/6/69/Ida6-logo.png"
+  alt="IDA PRO"
+  width="40" height="40"
+/>
+</a>
+<!-- Binary Ninja -->
+<a
+href="https://binary.ninja/"
+target="_blank" rel="noreferrer">
+<img
+  src="https://raw.githubusercontent.com/banteg/binary_ninja_mcp/main/images/binja.png"
+  alt="Binary Ninja"
+  width="40" height="40"
+/>
+</a>
  <!-- 仓库信息（放在图标正下方） -->
 <p align="left">
   <a href="https://github.com/The-Sword-of-Constantine/UsingBYOVD">
